@@ -1,7 +1,7 @@
-<h1 align="center">Languages and Frameworks:</h1>
+<h1 align="center">Languages and Frameworks</h1>
 
 
-<h3 align="center">MERN Stack:</h3>
+<h3 align="center">MERN Stack</h3>
 <h3 align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -12,7 +12,7 @@
 </h3>
 
 
-<h3 align="center">Other Techs:</h3>
+<h3 align="center">Other Techs</h3>
 <h3 align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@
 </h3>
 
 
-<h3 align="center">Databases:</h3>
+<h3 align="center">Databases</h3>
 <h3 align="center">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,7 +37,7 @@
 </h3>
 
 
-<h3 align="center">Version Control:</h3>
+<h3 align="center">Version Control</h3>
 <h3 align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
